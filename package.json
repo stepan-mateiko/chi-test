@@ -2,7 +2,6 @@
   "name": "chi-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://stepan-mateiko.github.io/chi-test",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
@@ -28,6 +27,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
+  "homepage": "https://stepan-mateiko.github.io/chi-test",
   "eslintConfig": {
     "extends": [
       "react-app",
